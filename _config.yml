@@ -1,0 +1,23 @@
+name: maravilla
+favicon: null
+layout_spectrum: 0.43141622259281576
+typography_spectrum: 0.9460804515983909
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7279868023470044
+  lightness: 0.6830721667502075
+  saturation: 0.4162993719801307
+  rhythmicContrast: 0.11573366587981582
+purpose: []
