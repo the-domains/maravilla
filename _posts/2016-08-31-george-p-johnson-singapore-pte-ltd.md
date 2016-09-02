@@ -1,15 +1,17 @@
 ---
-datePublished: '2016-08-31T03:34:53.004Z'
+datePublished: '2016-08-31T03:37:54.238Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-31T03:33:52.507Z'
+dateModified: '2016-08-31T03:37:52.421Z'
 title: GEORGE P. JOHNSON (SINGAPORE) PTE LTD
 publisher: {}
 description: 'Statement of Qualification:'
-starred: false
 sourcePath: _posts/2016-08-31-george-p-johnson-singapore-pte-ltd.md
-_type: Blurb
+hasPage: true
+starred: false
+url: george-p-johnson-singapore-pte-ltd/index.html
+_type: Article
 
 ---
 **Statement of Qualification:**
