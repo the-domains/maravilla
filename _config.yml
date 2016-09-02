@@ -14,6 +14,10 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Jorge Raymund Maravilla
+  email: vicissitude24@gmail.com
+  url: thegrid.ai/maravilla
 name: Maravilla Chronicles
 cta:
   domain: null
